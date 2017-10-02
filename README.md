@@ -1,4 +1,4 @@
-# Linear-Regression-with-Numpy
+# Linear Regression with Numpy
 Although linear regression is available in many python packages that can be used easily by importing those packages, this repo is implemented Linear regression in NumPy just to help people understand the code flow behind it.
 
 To learn more in detail read the [Notebook](https://github.com/nishanthgandhidoss/Linear-Regression-with-Numpy/blob/master/Regression_Nishanth_Gandhidoss.ipynb)
