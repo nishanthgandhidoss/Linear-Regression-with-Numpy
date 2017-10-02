@@ -5,4 +5,4 @@ To learn more in detail read the [Notebook](https://github.com/nishanthgandhidos
 
 You can see the code within the numpy_regressor that consists of OOP implementation of regression. And __init__.py file uses those classes to compute regression [Airfoil dataset](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise). Below a least mean square error visualization for this data on cross validation to choose the hyperparameters for the model such as basis function and lamda for linear closed function.
 
-<img src="https://github.com/nishanthgandhidoss/Linear-Regression-with-Numpy/blob/master/image/Airfoil%20dataset%20lmse%20analysis.png" alt="Airfoil dataset" align = "center"/>
+<img src="https://github.com/nishanthgandhidoss/Linear-Regression-with-Numpy/blob/master/image/Analysis%20of%20Airfoil%20lmse%20.png" alt="Airfoil dataset" align = "center"/>
